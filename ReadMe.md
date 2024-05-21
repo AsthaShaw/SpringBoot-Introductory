@@ -46,7 +46,7 @@ Spring dependency-Spring Beans we need (lower level)
 # Spring Framework Dependency Injection
 
 - Constructor-based-Dependencies are set by creating the Bean using its constructor(This is recommended by Spring)as dependencies are automatically set when an object is created
-
+- Writing Autowired on constructor injection is optional
 ```jsx
   @Autowired
     private GamingConsole game;
