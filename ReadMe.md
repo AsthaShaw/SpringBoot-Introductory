@@ -10,7 +10,7 @@ This is my revision of Spring before I start building the Super Mummy Project!!
 - Spring framework through component and autowired will manage the creation of these classes
 - By default any bean we create in Spring is a singleton bean
 - If there is no component or more than one @Component then Spring framework will throw an error
-- @Component-is a class managed by Spring framework
+- @Component-an instance of the class is managed by Spring framework
 
 **How does Spring Framework find component classes?**
 
